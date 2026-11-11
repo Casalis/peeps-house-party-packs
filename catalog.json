@@ -3,18 +3,18 @@
 	"games": [
 		{
 			"description": "Template game: a shared room where everyone can walk around. Copy this folder to start a new multiplayer game.",
-			"file": "hangout-0.1.0.pck",
+			"file": "hangout-0.1.1.pck",
 			"id": "hangout",
 			"max_players": 16.0,
 			"min_players": 1.0,
 			"published": "2026-11-11",
-			"sha256": "c18b63b8e193039a4cd23a0c3bc59f683b23e53fa07ece5b1fe60f4f24a19882",
+			"sha256": "f486cd36124ee50e1bc520b55d79183cdc1a215360ceb6724f7cf82a6877fd13",
 			"size": 7616.0,
-			"tag": "hangout-v0.1.0",
+			"tag": "hangout-v0.1.1",
 			"title": "Hangout",
-			"url": "https://github.com/Casalis/peeps-house-party-packs/releases/download/hangout-v0.1.0/hangout-0.1.0.pck",
-			"version": "0.1.0"
+			"url": "https://github.com/Casalis/peeps-house-party-packs/releases/download/hangout-v0.1.1/hangout-0.1.1.pck",
+			"version": "0.1.1"
 		}
 	],
-	"updated": "2026-11-11T15:32:38"
+	"updated": "2026-11-11T15:33:25"
 }
